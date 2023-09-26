@@ -7,3 +7,5 @@ Install:
 
 If you use ElvUI or another UI Addon make sure to disable the custom chat bubble feature!
 
+Disclaimer: Just like the ElvUi login screen rep, this is NOT MY work, I'm simply re-uploading it due to the original location being unreachable!
+
