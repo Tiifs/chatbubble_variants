@@ -1,7 +1,7 @@
 Install:
 - World of Warcraft install folder -> _retail_ -> Interface 
 - Create folder "Tooltips" (ONLY IF it doesn't exist)
-- Copy the content from the chat bubble folder u want to use
+- Copy the content from the chat bubble folder u want to use (overwrite the existing files, DO NOT RENAME them!!!)
 - Restart World of Warcraft
 
 
